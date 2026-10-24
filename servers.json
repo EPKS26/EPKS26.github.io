@@ -104,6 +104,11 @@
             "name": "uwucloud",
             "address": "https://ani.uwucloud.fun",
             "kind": 0
-        }
+        },
+        {
+    "name": "Esigner Public Fallback",
+    "address": "https://esigner.xyz"
+}
+
     ]
 }
